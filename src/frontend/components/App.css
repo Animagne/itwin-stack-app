@@ -1,0 +1,35 @@
+/*---------------------------------------------------------------------------------------------
+* Copyright (c) Bentley Systems, Incorporated. All rights reserved.
+* See LICENSE.md in the project root for license terms and full copyright notice.
+*--------------------------------------------------------------------------------------------*/
+
+.app {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app .button-open-imodel {
+  position: absolute;
+  width: 200px;
+  text-align: center;
+  top: 40%;
+  left: 50%;
+  margin-left: -100px;
+  margin-right: 100px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.app .button-signout {
+  position: absolute;
+  width: 200px;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px;
+  margin-right: 100px;
+  padding-left: 0;
+  padding-right: 0;
+}
