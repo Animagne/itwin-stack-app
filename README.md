@@ -1,8 +1,8 @@
-# iTwin Stack Viewport App
+# iTwin Stack App
 
 Copyright © Bentley Systems, Incorporated. All rights reserved.
 
-An iModel.js sample application that demonstrates the minimum setup for opening an iModel from iModelBank and viewing its graphics in a viewport with basic viewing tools.
+An iModel.js sample application that demonstrates the minimum setup for opening an iModel within iTwin Stack and viewing its graphics in a viewport with basic viewing tools. This is meant for private cloud solutions running with iModelBank. For cloud based solutions with iModelHub see [imodeljs-samples](https://github.com/imodeljs/imodeljs-samples).
 
 * _Viewport_: Renders geometric data onto an HTMLCanvasElement.
 * _Toolbar_: Includes basic viewport tools in top-right corner of viewport (select, fit, rotate, pan, zoom).
